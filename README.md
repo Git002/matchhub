@@ -31,7 +31,7 @@ pip install -r requirements.txt
 
 This command will install all the packages listed in the requirements.txt file
 
-# What about testing?
+# How to run this?
 ```
 python app.py
 ```
